@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Sebastian",
+      "lastName": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "age": 5,
+      "registrationNumber": "phf"
+    },
+    {
+      "id": 2,
+      "firstName": "Steve",
+      "lastName": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "age": "56",
+      "registrationNumber": "phf"
+    },
+    {
+      "id": 3,
+      "firstName": "Ann",
+      "lastName": "Smith",
+      "email": "ann@codingthesmartway.com",
+      "age": 5,
+      "registrationNumber": "phf"
+    },
+    {
+      "firstName": "rihab",
+      "lastName": "beji",
+      "age": 0,
+      "city": "rihabbeji@yahoo.fr",
+      "registrationNumber": "",
+      "id": 4,
+      "email": "rihabbeji@yahoo.fr"
+    }
+  ]
+}
