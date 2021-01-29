@@ -1,4 +1,5 @@
 "# Frontend.Entwickler.Angular.CRUD.Application" 
-"# Frontend.Entwickler.Angular.CRUD.Application" 
-"# Frontend.Entwickler.Angular.CRUD.Application" 
-"# Frontend.Entwickler.Angular.CRUD.Application" 
+"#to launch the application"
+"#ng start"
+"#Start the fake backend server"
+"#json-server --watch server/db.json"
